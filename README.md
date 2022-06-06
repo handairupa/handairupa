@@ -12,7 +12,8 @@ Model is created for image classification using transfer learning from Inception
 <br>
 We used Vertex AI for deployment, choosing the 4-core CPU only option from a server located in Singapore.
 
-
+### Mobile Development
+Please refer to the <b>handairupa-app</b> for more information.
 <!--
 **handairupa/handairupa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
