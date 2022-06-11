@@ -27,7 +27,7 @@ We used Vertex AI for deployment, choosing the 4-core CPU only option from a ser
 10) On "Model Settings", choose the model that was previously imported. Choose traffic split to be 100. Choose n1-standard-4 as the machine type. Leave the other settings as default, and create the endpoint. 
 
 ## Mobile Development
-Please refer to the <a href ="https://github.com/handairupa/handairupa-app">handairupa-app</a> for complete information.
+Please refer to the <a href ="https://github.com/handairupa/handairupaApp">handairupaApp</a> for complete information.
 
 ## Cloud Computing
 > **TBA**
